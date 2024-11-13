@@ -3,7 +3,7 @@ name: Feature Request
 about: Suggest a new feature or improvement for the LiveDraw Aseprite extension
 title: "[FEATURE REQUEST]"
 labels: "enhancement, feature request"
-assignees: ""
+assignees: "Devkidd"
 ---
 
 **Feature Description**
