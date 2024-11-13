@@ -2,8 +2,9 @@
 name: Bug Report
 about: Report a bug or problem with the LiveDraw Aseprite extension
 title: "[BUG]"
-labels: "bug"
-assignees: "Devkidd"
+labels: bug
+assignees: ''
+
 ---
 
 **Describe the Bug**
