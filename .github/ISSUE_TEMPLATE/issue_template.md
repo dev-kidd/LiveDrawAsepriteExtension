@@ -3,7 +3,7 @@ name: General Issue
 about: Report a general issue or suggestion for the LiveDraw Aseprite extension
 title: "[ISSUE]"
 labels: "enhancement, needs review"
-assignees: devkidd
+assignees: "Devkidd"
 ---
 
 **Description**
