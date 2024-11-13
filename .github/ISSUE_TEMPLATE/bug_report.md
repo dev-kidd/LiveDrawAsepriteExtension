@@ -3,7 +3,7 @@ name: Bug Report
 about: Report a bug or problem with the LiveDraw Aseprite extension
 title: "[BUG]"
 labels: "bug"
-assignees: ""
+assignees: "Devkidd"
 ---
 
 **Describe the Bug**
